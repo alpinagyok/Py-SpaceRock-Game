@@ -6,4 +6,10 @@ This project was created in my first semester of university. This is **NOT meant
 
 - Install Python 3.6 or higher
 - 'pip install pygame'
-- Run game.py
+- 'python game.py'
+
+## Screenshots
+
+![Image1](https://res.cloudinary.com/dwwoxasih/image/upload/v1599422379/pygame1_zjkn0v.png)
+
+![Image2](https://res.cloudinary.com/dwwoxasih/image/upload/v1599422379/pygame2_zufevu.png)
